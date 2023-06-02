@@ -1,0 +1,143 @@
+@charset "utf-8";
+.index h1 {
+    text-align: center;
+    background-color: #DDA446;
+    text-shadow: 0px 0px #000000;
+    color: #FFFFFF;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    font-size: 70px;
+}
+body aside h2 {
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    border: thick solid #DDA446;
+    text-align: center;
+    border-radius: 20px;
+    color: #FFFFFF;
+}
+nav {
+    color: #FFFFFF;
+}
+
+* {
+    background-color: #000000;
+
+}
+body section ol {
+    text-align: center;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+    border: thick solid #DDA446;
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body section {
+    text-align: center;
+
+}
+p {
+    text-align: center;
+
+
+
+
+}
+
+
+
+table {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    height: auto;
+}
+
+
+body p {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: thick solid #DDA446;
+    color: #FFFFFF;
+}
+body footer {
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+    background-color: #DDA446;
+    color: #FFFFFF;
+}
+body a {
+    color: #FFFFFF;
+}
+section ul li {
+    color: #FFFFFF;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0px;
+}
+body p {
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+}
+
+
+
+.index {
+}
+body section ul {
+    border: thick solid #DDA446;
+    border-radius: 20px;
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 9%;
+    margin-bottom: 10px;
+}
+nav {
+    font-size: large;
+}
+
+section ul li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body aside img {
+    width: 80%;
+    height: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: thick solid #DDA446;
+    border-radius: 20px;
+}
+td img {
+}
+body section iframe {
+    width: 90%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
